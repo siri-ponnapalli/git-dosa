@@ -9,3 +9,7 @@
 * oil
 * karam
 * dosa flour
+
+# paneer masala dosa
+* dosa batter
+* panner
