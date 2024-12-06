@@ -15,3 +15,4 @@
 * panner
 * cheese
 * mysore masala
+* garam masala and ghee
