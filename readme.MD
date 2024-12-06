@@ -13,6 +13,3 @@
 # paneer masala dosa
 * dosa batter
 * panner
-* cheese
-* mysore masala
-* garam masala and ghee
