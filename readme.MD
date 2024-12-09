@@ -15,3 +15,7 @@
 * panner
 * ghee
 * chicken masala
+* ghee
+
+# Special Dosa
+* dosa batter
