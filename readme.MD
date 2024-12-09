@@ -9,3 +9,16 @@
 * oil
 * karam
 * dosa flour
+
+# paneer masala dosa
+* dosa batter
+* panner
+* ghee
+* chicken masala
+* ghee
+
+# Special Dosa
+* dosa batter
+* bombay chutney
+* podi
+* oil
